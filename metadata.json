@@ -1,0 +1,6 @@
+{
+  "name": "Ludo King",
+  "description": "Classic Ludo King board game with Computer Bot AI, Local Pass & Play multiplayer, Quick mode, Snakes & Ladders, animated dice, tokens, sound effects, and player stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
